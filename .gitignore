@@ -1,0 +1,8 @@
+./vscode/
+tasks.json
+*.html
+*.md
+
+smu.c
+smu
+smu.h
