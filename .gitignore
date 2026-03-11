@@ -1,7 +1,7 @@
 ./vscode/
 tasks.json
 *.html
-*.md
+md/*.md
 
 smu.c
 smu
